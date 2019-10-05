@@ -36,7 +36,7 @@ section {
 
 /* Structure */
 html {
-	font-size: 100%;
+	font-size: 115%;
 	-ms-text-size-adjust: none;
 	-webkit-text-size-adjust: none;
 }
@@ -133,14 +133,14 @@ textarea {
 }
 
 .btn:hover {
-	color: #fff;
+	color: #f5f5f5;
 	background: #ffc107;
 }
 
 /* Animation */
 .menu__item,
 .btn {
-	transition: background-color .25s ease-out;
+	transition: background-color 0.25s ease-out;
 }
 
 /* Typography */
@@ -427,8 +427,8 @@ select {
 	width: 100%;
 	padding: 0;
 	font: inherit;
-	color: #fff;
-	background: #2a2a2a;
+	color: #F5F5F5;
+	background: #2A2A2A;
 	border: 0;
 	outline: 0;
 }
@@ -488,12 +488,11 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	padding: 10px 15px;
 	padding: .625rem .9375rem;
 	font-weight: 700;
-	color: #fff;
-	text-transform: uppercase;
+	color: #F5F5F5;
 }
 
 .menu__link:hover {
-	color: #fff;
+	color: #2A2A2A;
 }
 
 .js .menu__list {
@@ -542,7 +541,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	}
 
 	.menu__item {
-		border-left: 1px solid rgba(255, 255, 255, .1);
+		border-left: 1px solid rgba(245, 245, 245, 0.1);
 	}
 }
 
@@ -702,7 +701,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	font-size: 12px;
 	font-size: .75rem;
 	line-height: 1;
-	color: #fff;
+	color: #f5f5f5;
 }
 
 .tags__list {
@@ -873,7 +872,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .pagination__item:hover,
 .pagination__item--current {
-	color: #fff;
+	color: #f5f5f5;
 	background: #ffc107;
 }
 
