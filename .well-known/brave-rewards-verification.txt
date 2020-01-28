@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jr-frank.github.io
+Token: a5df0f776830c40ec6e6c3295b9c3b646e97d4d4d682ebb2fb14fe2783dcc6cb
